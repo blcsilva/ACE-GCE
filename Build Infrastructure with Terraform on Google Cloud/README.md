@@ -47,3 +47,9 @@ modules/
 These files and directories are structured as per the lab requirements and contain the necessary Terraform configurations for building infrastructure on Google Cloud.
 
 Feel free to explore the contents of each file for more details.
+Execute:
+profile_export.sh
+structure.sh
+create_config.sh
+populate_var.sh
+config_main.sh
